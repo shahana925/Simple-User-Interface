@@ -1,0 +1,48 @@
+a{
+    color: white!important;
+    font-size:15px;  font-family: cursive;
+    
+
+}
+a:hover{
+    text-decoration-line: underline;
+}
+ul,li{
+    margin-left:12%;
+}
+body{
+    background-color: rgb(212, 211, 212);
+    overflow-x: hidden;
+}
+.card-body a{
+    color:rgb(87,104,173)!important;
+}
+ .card-body, :hover{
+   
+  
+    cursor: pointer!important;
+}
+form
+{
+    color:red;
+}
+form,input::placeholder
+{
+    color: white!important;
+}
+form,select,option,::placeholder
+{
+    color: white!important;
+    font-weight: bold!important;
+}
+form,textarea,::placeholder
+{
+    color: white!important;
+    font-weight: bold!important;
+}
+form,button
+{
+    color: black!important;
+    
+   
+}
